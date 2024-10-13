@@ -1,0 +1,33 @@
+.formCard{
+  width: 50%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  padding: 3%;
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.backDiv{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(235, 235, 235);
+
+}
+.cardTitle{
+  color: darkgoldenrod;
+}
+.viewCard{
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  padding: 3%;
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.redText{
+  color: red;
+}
